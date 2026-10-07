@@ -14,40 +14,9 @@ Every link is checked by hand. Submit to a few good ones instead of a hundred de
 </div>
 
 ---
-
-## ⭐ Featured launch platforms
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🚀 [Nick Launches](https://nicklaunches.com/?ref=best-directories)
-
-Weekly launch platform for makers and indie builders. Pick a launch week, get in front of other builders, and keep a permanent listing with a backlink.
-
-**Best for:** SaaS, AI tools, side projects
-
-[**Launch your product →**](https://nicklaunches.com/submit?ref=best-directories)
-
-</td>
-<td width="33%" valign="top">
-
-### 🏙️ [SaaSCity](https://saascity.io/?ref=best-directories)
-
-Launch and discover software on an interactive city map. Every listing becomes a building with its own permanent page and a dofollow backlink.
-
-**Best for:** SaaS and B2B software
-
-[**List your SaaS →**](https://saascity.io/submit?ref=best-directories)
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 [AI Agents Listing](https://aiagentslisting.com/?ref=best-directories)
-
 Curated directory of the agentic AI ecosystem: AI agents, MCP servers and agent skills, ranked by real engagement. A basic listing is free.
 
-**Best for:** AI agents, MCP servers, agent skills
+**Best for:** AI agents, MCP servers and agent skills
 
 [**Add a free listing →**](https://aiagentslisting.com/submit?ref=best-directories)
 
@@ -85,6 +54,7 @@ Daily or weekly launch boards, the closest thing to Product Hunt.
 - [DevHunt](https://devhunt.org/) - Launch platform for developer tools.
 - [TinyLaunch](https://www.tinylaunch.com/) - Weekly launches for small and indie products.
 - [Firsto](https://www.firsto.co/) - Launch platform for new products and startups.
+- [Huzzler](https://huzzler.so/) - Launch platform and startup directory for SaaS founders.
 - [Twelve Tools](https://www.twelve.tools/) - Twelve featured tools at a time, rotated regularly.
 - [OpenHunts](https://www.openhunts.com/) - Weekly launch board for indie makers.
 - [Startup Fame](https://www.startupfa.me/) - Launch and showcase platform for startups.
