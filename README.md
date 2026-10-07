@@ -14,9 +14,40 @@ Every link is checked by hand. Submit to a few good ones instead of a hundred de
 </div>
 
 ---
+
+## ⭐ Featured launch platforms
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 [Nick Launches](https://nicklaunches.com/?ref=best-directories)
+
+Weekly launch platform for makers and indie builders. Pick a launch week, get in front of other builders, and keep a permanent listing with a backlink.
+
+**Best for:** SaaS, AI tools, side projects
+
+[**Launch your product →**](https://nicklaunches.com/submit?ref=best-directories)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏙️ [SaaSCity](https://saascity.io/?ref=best-directories)
+
+Launch and discover software on an interactive city map. Every listing becomes a building with its own permanent page and a dofollow backlink.
+
+**Best for:** SaaS and B2B software
+
+[**List your SaaS →**](https://saascity.io/submit?ref=best-directories)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 [AI Agents Listing](https://aiagentslisting.com/?ref=best-directories)
+
 Curated directory of the agentic AI ecosystem: AI agents, MCP servers and agent skills, ranked by real engagement. A basic listing is free.
 
-**Best for:** AI agents, MCP servers and agent skills
+**Best for:** AI agents, MCP servers, agent skills
 
 [**Add a free listing →**](https://aiagentslisting.com/submit?ref=best-directories)
 
